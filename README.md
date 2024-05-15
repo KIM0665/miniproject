@@ -1,5 +1,9 @@
-mysql에서 데이터 베이스 생성
+공공공데이터를 활용한 주식정보 토론방을 만들어보았습니다(CUI방식)
 
+
+
+
+mysql에서 데이터 베이스 생성
 
 create database sqldb;
 
